@@ -1,0 +1,10 @@
+package com.example.charityconnect.repo;
+
+import com.example.charityconnect.domain.Donation;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.List;
+
+public interface DonationRepository extends JpaRepository<Donation, Long> {
+    List<Donation> findByCampaignId(Long campaignId);
+}
