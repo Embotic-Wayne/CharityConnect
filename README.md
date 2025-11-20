@@ -1,6 +1,6 @@
 # CharityConnect 🕊️
 
-A secure crowdfunding backend inspired by GoFundMe — allowing users to create fundraising campaigns, donate, and manage campaigns with admin moderation.
+A secure crowdfunding backend inspired by GoFundMe, allowing users to create fundraising campaigns, donate, and manage campaigns with admin moderation.
 ---
 
 ## ⚙️ Tech Stack
